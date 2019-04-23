@@ -1,0 +1,23 @@
+{
+  "name": "ravepage",
+  "version": "1.0.0",
+  "description": "Final CSC 337 Project",
+  "main": "RavePage_service.js",
+  "scripts": {
+    "start": "node RavePage_service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegmat13/csc337final_raves.git"
+  },
+  "keywords": [
+    "Final",
+    "Project"
+  ],
+  "author": "Matthew And Yasser",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hegmat13/csc337final_raves/issues"
+  },
+  "homepage": "https://github.com/hegmat13/csc337final_raves#readme"
+}
